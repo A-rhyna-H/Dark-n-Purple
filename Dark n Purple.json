@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "ArhynaH#9527, ArhynaH#8162",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Dark n Purple",
         "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Dark-n-Purple\/main\/Dark%20n%20Purple.json"
     },
@@ -38,7 +38,8 @@
         "primary_dark_400": -5994770,
         "primary_300": -16316665,
         "primary_700_alpha_60": -5994770,
-        "primary_dark_630": -15329510
+        "primary_dark_630": -15329510,
+        "primary_dark_330": -5994770
     },
     "drawable_tints": {
         "drawable_button_grey": -901165738,
